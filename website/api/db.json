@@ -1,0 +1,54 @@
+{
+    "universities": [
+      {
+        "key" :"1",
+        "name": "Gazi Üniversitesi",
+        "picRef":
+          "https://webupload.gazi.edu.tr/upload/271/2021/10/5/b8d8a9ea-f38a-41a2-b836-da793d43c921-b1301b1d-72c8-444e-a5d7-f8f53279b462-universitemiz.png"
+      },
+      {
+        "key" :"2",
+        "name": "Hacettepe Üniversitesi",
+        "picRef":
+          "https://static.birgun.net/resim/haber-detay-resim/2020/12/21/hacettepe-universitesi-nden-kuir-arastirmalari-toplulugu-na-sansur-819491-5.jpg"
+      },
+      {
+        "key" :"3",
+        "name": "Ortadoğu Teknik Üniversitesi",
+        "picRef":
+          "https://static.birgun.net/resim/haber-detay-resim/2020/08/20/odtu-den-uzaktan-egitim-karari-771111-5.jpg"
+      },
+      {
+        "key" :"4",
+        "name": "Ankara Üniversitesi",
+        "picRef":
+          "https://fra1.digitaloceanspaces.com/t-space/static/uploads/ankara-universitesi.jpg"
+      },
+      {
+        "key" :"4",
+        "name": "İstanbul Teknik Üniversitesi",
+        "picRef":
+          "https://m.kunduz.com/media/wp/5709588918c773162c4a632b-e1560542589835.jpg"
+      },
+      {
+        "key" :"5",
+        "name": "Yıldız Teknik Üniversitesi",
+        "picRef":"https://www.unibilgi.net/wp-content/uploads/2019/02/ytu-kampus.jpg"
+          }
+    ],
+     
+    "comments":[
+      {
+        "user":"Kadir Özer Öztürk",
+        "username":"kdrozer",
+        "comment":"Okul çok güzel"
+      },
+      {
+        "user":"Gökhan Akbaş",
+        "username":"gkhnakbs",
+        "comment":"Okul çok çok güzel"
+      }
+     ]
+    
+    }
+   
